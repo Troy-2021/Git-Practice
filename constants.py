@@ -4,4 +4,5 @@ rainbow_feature_C = "rainbow_feature_C"
 rainbow_feature_D = "rainbow_feature_D"
 rainbow_feature_G = "rainbow_feature_G"
 rainbow_feature_X = "rainbow_feature_X"
+rainbow_feature_Y = "rainbow_feature_Y"
 
